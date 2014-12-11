@@ -1,0 +1,174 @@
+*{margin:0,padding:0}
+body{font-family:arial;font-size:14px;line-height:22px;color:#000}
+.fix{overflow:hidden}
+.main{width:1019px; margin:0px auto;display:block;border: 2px ;}
+.parvez1{}
+.sazzad0{background-color:#2D2F3B;height: 56px;}
+.sazzad1{float: right;margin-top: -60px;padding: 1 415px;color:#F16C65;font-size: 20px;}
+.sazzad2{width: 500px;margin-left: 655px;margin-top:-50px}
+.sazzad2 ul {margin:0;padding:0;list-style:none}
+.sazzad2 ul li{float:left}
+.sazzad2 ul li a{display:block;text-decoration:none;color: #FFF;padding: 7px 13px;font-size: 18px;}
+.sazzad2 ul li a:hover{}
+.hossen{background:#F16C65}
+.parvez2{position: relative;
+top:22px;
+right: -199px;}
+.parvez3 {position: relative;
+left: 389px;
+top: -167px;
+}
+.hossen1{position: relative;
+left: 901;
+top: -224px}
+.hossen2{position: relative;
+bottom: 261;
+left: 88;}
+.parvez4{position: relative;
+bottom: 45px;}
+.parvez4 h4{font-size: 38;
+margin-bottom: 10px}
+.parvez5{}
+.parvez5 img{}
+.parvez5 h4{    position: relative;
+    left: 89px;
+    top: -90px;
+    font-size: 25px;
+}
+.parvez5 p{position: relative;
+    left: 90px;
+    top: -110px;
+}
+.parvez6 {position: relative;
+left: 306px;
+top: -235px;}
+.parvez6 img{}
+.parvez6 h4{position: relative;
+left: 85px;
+top: -90px;
+font-size: 25px;}
+.parvez6  p{position: relative;
+left: 85px;
+top: -117px}
+.parvez7{position: relative;
+left: 610px;
+top: -473px;}
+.parvez7 img{}
+.parvez7 h4{position: relative;
+left: 85px;
+top: -87px;
+font-size: 25px;}
+.parvez7 p{position: relative;
+left: 88px;
+top: -112px;}
+.parvez8{position: relative;
+bottom: 560px}
+.parvez8 img{}
+.parvez8  h4{position: relative;
+left: 75px;
+font-size: 22px;
+top: -85px;}
+.parvez8 p{    position: relative;
+    left: 75px;
+    top: -105px;
+}
+.parvez9{position: relative;
+left: 305px;
+top: -786px;}
+.parvez9 img {}
+.parvez9 h4{position: relative;
+left: 85px;
+bottom: 85px;
+font-size: 25px;}
+.parvez9 p{position: relative;
+left: 85px;
+bottom: 107px}
+.parvez10{position: relative;
+top: -1024px;
+left: 610px;}
+.parvez10 img {}
+.parvez10 h4{position: relative;
+top: -87px;
+left: 85px;
+font-size: 25px;}
+.parvez10 p {position: relative;
+top: -112px;
+left: 87px;}
+.parvez11{background-color:#2D2F3B;
+margin-top: -1130px;}
+.hoss1{}
+.hoss2{}
+.sazzad3{position: relative;
+left: 12px;}
+.sazzad3 h1{font-size: 15px;
+border: 1px solid;
+width: 15px;
+padding: 1px 9px;
+border-radius: 25%;color:#DCDEDD}
+.sazzad3 h2{font-size: 11px;
+border: 1px solid;
+width: 72px;
+padding: 0px 5px;
+border-radius: 15%;
+color: #DCDEDD;
+margin-left: 45px;
+margin-top: -36px;}
+.sazzad3 h3{font-size: 11px;
+border: 1px solid;
+width: 84px;
+padding: 0px 5px;
+border-radius: 15%;
+color: #DCDEDD;
+margin-left: 143px;
+margin-top: -33px;}
+.sazzad3 h4{font-size: 11px;
+border: 1px solid;
+width: 84px;
+padding: 0px 5px;
+border-radius: 15%;
+color: #DCDEDD;
+margin-left:250px;
+margin-top: -36px;}
+.sazzad4{}
+.parvez12{margin-left: 30px}
+.parvez12 h3{font-size: 22px;
+margin-top: 36px}
+.parvez12 p{margin-top: -17;
+font-size: 16px;
+line-height: 18px;}
+.parvez13 {}
+.parvez14{background:#F16C65;}
+.get{margin-left: 25px;color: #FFF}
+.get h2{}
+.get p{margin-top: -9px}
+.parvez15{margin-left: 22px;color: #F0D8D9;
+border: 1px solid;width:680px;height: 33px;margin-top: 15px;background-color: #D75650;border-color:#D75650}
+.parvez15 p{margin-top: 6px;}
+.parvez16{margin-left: 22px;color: #F0D8D9;
+border: 1px solid;
+width:680px;height: 33px;margin-top: 15px;background-color: #D75650;border-color:#D75650}
+.parvez16 p{margin-top: 6px;}
+.parvez17{margin-left: 22px;color: #F0D8D9;
+border: 1px solid;border-color:#D75650;height: 33px;margin-top: 15px;background-color: #D75650;width:680px;}
+.parvez17 p{margin-top: 6px;}
+.parvez18{margin-left: 22px;color: #F0D8D9;
+border: 1px solid;
+width:554px;background-color: #D75650;
+height: 33px;margin-top: 15px;padding: 65px;border-color:#D75650}
+.parvez18 p{margin-top: -58px;
+margin-left: -65px;}
+.parvez19{position: relative;
+left: 725px;
+top: -325px;color:#fff}
+.footer{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
